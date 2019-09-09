@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background: #2d3436;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+.cont_p{
+    margin: auto;
+    padding: auto;
+    border: 1px solid black;
+}
